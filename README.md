@@ -61,10 +61,7 @@ console.log("Hello, World!");
 
    <div>
 
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/python.png" alt="Python"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/php.png" alt="PHP"/></a>
-   <a><img src="https://img.icons8.com/fluency/65/nextjs.png"/></a>
+   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/python.png" alt="Python"/></a><a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js"/></a><a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/php.png" alt="PHP"/></a><a><img src="https://img.icons8.com/fluency/65/nextjs.png"/></a>
    <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png" alt="C#"/></a>
    <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/ruby-programming-language.png" alt="Ruby"/></a>
    </div>
