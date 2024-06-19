@@ -5,11 +5,11 @@
 # Technical Skills
 * **Programming languages:**
 <p>
-   <a><img src="https://img.icons8.com/color/90/000000/aws.png"/></a>
+   <a><img src="https://img.icons8.com/color/90/000000/amazon-web-services.png"/></a>
    <a><img src="https://img.icons8.com/color/90/000000/python.png"/></a>
-   <a><img src="https://img.icons8.com/color/90/node.png"/></a>
+   <a><img src="https://img.icons8.com/color/90/node-js.png"/></a>
    <a><img src="https://img.icons8.com/color/90/000000/php.png"/></a>
-  <a><img src="https://img.icons8.com/color/90/000000/perl.png"/></a>
+  <a><img src="https://img.icons8.com/color/90/000000/confluence.png"/></a>
 </p>
 
 <!--
