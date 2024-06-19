@@ -3,9 +3,7 @@
  <h2 align="center">Milwaukee's Stack</h2>
 
 ```
-const helloWorld = () => console.log("Hello, World 👋 !");
-
-helloWorld();
+console.log("Hello, World!");
 
 ```
 
@@ -38,13 +36,19 @@ helloWorld();
    </strong> Technologies:
    
    </div>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML5"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/></a>
-  <a><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/></a>
-  <a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React.js"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/angularjs.png" alt="Angular"/></a>
+   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/">
+      <img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML5"/>
+   </a><a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/">
+      <img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript"/>
+   </a><a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/">
+      <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
+   </a>
+  <a><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
+  </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a>
+   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/">
+      <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React.js"/></a>
+   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/">
+      <img src="https://img.icons8.com/color/60/000000/angularjs.png" alt="Angular"/></a>
 
 <hr style="margin-top: 80px; margin-bottom: 80px; border-bottom: dashed 1px #3e3e3e;"/>
 
@@ -127,18 +131,3 @@ helloWorld();
 
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GitMaebela&show_icons=true&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/milwaukee-m/)
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GitMaebela&show_icons=true&theme=default#gh-light-mode-only)](https://www.linkedin.com/in/milwaukee-m/)
-
-<!--
-**GitMaebela/GitMaebela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
