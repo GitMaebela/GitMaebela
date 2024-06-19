@@ -1,6 +1,5 @@
 <p align="center">
- <img width="100px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43237514?s=400&u=34b0bece7b356442f3513e376b3bed8568b38fa0&v=4" align="center" />
- <h2 align="center">Milwaukee's Stack</h2>
+<h2 align="center">Milwaukee's Stack</h2>
 
 ```
 console.log("Hello, World!");
