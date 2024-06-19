@@ -36,19 +36,18 @@ console.log("Hello, World!");
    </strong> Technologies:
    
    </div>
+
+
    <a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML5"/>
    </a><a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript"/>
    </a><a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
-   </a>
-  <a><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
-  </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a>
+   </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a>
    <a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React.js"/></a>
-   <a  href="https://www.linkedin.com/in/milwaukee-m/">
-      <img src="https://img.icons8.com/color/60/000000/angularjs.png" alt="Angular"/></a>
+
 
 <hr style="margin-top: 80px; margin-bottom: 80px; border-bottom: dashed 1px #3e3e3e;"/>
 
