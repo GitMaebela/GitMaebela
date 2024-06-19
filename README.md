@@ -36,18 +36,18 @@ console.log("Hello, World!");
    </strong> Technologies:
    
    </div>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/">
+   <a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML5"/>
-   </a><a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/">
+   </a><a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript"/>
-   </a><a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/">
+   </a><a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
    </a>
   <a><img src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
   </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/">
+   <a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React.js"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/">
+   <a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/angularjs.png" alt="Angular"/></a>
 
 <hr style="margin-top: 80px; margin-bottom: 80px; border-bottom: dashed 1px #3e3e3e;"/>
@@ -61,9 +61,9 @@ console.log("Hello, World!");
 
    <div>
 
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/python.png" alt="Python"/></a><a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js"/></a><a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/php.png" alt="PHP"/></a><a><img src="https://img.icons8.com/fluency/65/nextjs.png"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png" alt="C#"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/ruby-programming-language.png" alt="Ruby"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/python.png" alt="Python"/></a><a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js"/></a><a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/php.png" alt="PHP"/></a><a><img src="https://img.icons8.com/fluency/65/nextjs.png"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png" alt="C#"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/ruby-programming-language.png" alt="Ruby"/></a>
    </div>
 
 
@@ -79,12 +79,12 @@ console.log("Hello, World!");
    
    </div>
 
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/github--v1.png" alt="GitHub"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/gitlab.png" alt="GitLab"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/jenkins.png" alt="Jenkins"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/docker.png" alt="Docker"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/kubernetes.png" alt="Kubernetes"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/github--v1.png" alt="GitHub"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/gitlab.png" alt="GitLab"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/jenkins.png" alt="Jenkins"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/docker.png" alt="Docker"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/kubernetes.png" alt="Kubernetes"/></a>
 <hr style="margin-top: 80px; margin-bottom: 80px; border-bottom: dashed 1px #3e3e3e;"/>
    
 </p>
@@ -100,12 +100,12 @@ console.log("Hello, World!");
    
    </div>
 
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/amazon-web-services.png" alt="AWS"/></a>
-<a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/webpack.png"/></a>
-<a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/selenium-test-automation.png" alt="Selenium"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/graphql.png" alt="GraphQL"/></a>
-<a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/jira.png"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/confluence.png" alt="Confluence"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/amazon-web-services.png" alt="AWS"/></a>
+<a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/webpack.png"/></a>
+<a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/selenium-test-automation.png" alt="Selenium"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/graphql.png" alt="GraphQL"/></a>
+<a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/jira.png"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/confluence.png" alt="Confluence"/></a>
 
 
 <hr style="margin-top: 80px; margin-bottom: 80px; border-bottom: dashed 1px #3e3e3e;"/>
@@ -120,11 +120,10 @@ console.log("Hello, World!");
    
    </div>
 
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/mysql-logo.png" alt="MySQL"/></a>
-   <a style="margin-right: 50px;" href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/mysql-logo.png" alt="MySQL"/></a>
+   <a  href="https://www.linkedin.com/in/milwaukee-m/"><img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB"/></a>
 
 <hr style="margin-top: 80px; margin-bottom: 80px; border-bottom: dashed 1px #3e3e3e;"/>
 
 
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GitMaebela&show_icons=true&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/milwaukee-m/)
-[![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GitMaebela&show_icons=true&theme=default#gh-light-mode-only)](https://www.linkedin.com/in/milwaukee-m/)
