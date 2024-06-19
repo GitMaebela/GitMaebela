@@ -41,9 +41,10 @@ console.log("Hello, World!");
    <a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML5"/>
    </a><a  href="https://www.linkedin.com/in/milwaukee-m/">
+      <img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript"/>
+   </a><a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
-   </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a>
-   <a  href="https://www.linkedin.com/in/milwaukee-m/">
+   </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a><a  href="https://www.linkedin.com/in/milwaukee-m/">
       <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React.js"/></a>
 
 
