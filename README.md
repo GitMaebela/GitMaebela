@@ -43,7 +43,7 @@ console.log("Hello, World!");
       <img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript"/>
    </a><a >
       <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
-   </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a><a ><img src="https://img.icons8.com/color/60/000000/react.png" alt="React.js"/></a>
+   </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a><a ><img src="https://img.icons8.com/color/60/000000/reactjs.png" alt="React.js"/></a>
 
 
 <hr style="margin-top: 80px; margin-bottom: 80px; border-bottom: dashed 1px #3e3e3e;"/>
