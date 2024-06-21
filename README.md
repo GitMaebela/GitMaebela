@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
 <h2 align="center">Milwaukee's Stack</h2>
 
 ```
@@ -129,3 +129,4 @@ console.log("Hello, World!");
 
 
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GitMaebela&show_icons=true&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/milwaukee-m/)
+](https://github.com/GitMaebela/GitMaebela/blob/main/README.md)
