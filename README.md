@@ -1,4 +1,4 @@
-[<p align="center">
+<p align="center">
 <h2 align="center">Milwaukee's Stack</h2>
 
 ```
@@ -36,20 +36,9 @@ console.log("Hello, World!");
 
    </div>
 
-
-   <a >
-      <img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML5"/>
-   </a><a >
-      <img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript"/>
-   </a><a >
-      <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
-   </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a>
-
-
-
-   <a ><img src="https://img.icons8.com/color/60/000000/html-5.png" alt="Git"/></a>
-   <a ><img src="https://img.icons8.com/color/60/000000/github--v1.png" alt="GitHub"/></a>
-   <a ><img src="https://img.icons8.com/color/60/000000/gitlab.png" alt="GitLab"/></a>
+   <a ><img src="https://img.icons8.com/color/60/000000/html-5.png" alt=" "/></a>
+   <a ><img src="https://img.icons8.com/color/60/000000/javascript.png" alt=" "/></a>
+   <a ><img src="https://img.icons8.com/color/60/000000/css3.png" alt=" "/></a>
    <a ><img src="https://img.icons8.com/color/60/000000/tailwindcss.png" alt=" "/></a>
 
 <hr style="margin-top: 80px; margin-bottom: 80px; border-bottom: dashed 1px #3e3e3e;"/>
@@ -129,4 +118,3 @@ console.log("Hello, World!");
 
 
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GitMaebela&show_icons=true&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/milwaukee-m/)
-](https://github.com/GitMaebela/GitMaebela/blob/main/README.md)
