@@ -47,12 +47,10 @@ console.log("Hello, World!");
 
 
 
-   <a ><img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/></a>
+   <a ><img src="https://img.icons8.com/color/60/000000/html-5.png" alt="Git"/></a>
    <a ><img src="https://img.icons8.com/color/60/000000/github--v1.png" alt="GitHub"/></a>
    <a ><img src="https://img.icons8.com/color/60/000000/gitlab.png" alt="GitLab"/></a>
-   <a ><img src="https://img.icons8.com/color/60/000000/jenkins.png" alt="Jenkins"/></a>
-   <a ><img src="https://img.icons8.com/color/60/000000/docker.png" alt="Docker"/></a>
-   <a ><img src="https://img.icons8.com/color/60/000000/kubernetes.png" alt="Kubernetes"/></a>
+   <a ><img src="https://img.icons8.com/color/60/000000/tailwindcss.png" alt=" "/></a>
 
 <hr style="margin-top: 80px; margin-bottom: 80px; border-bottom: dashed 1px #3e3e3e;"/>
 
