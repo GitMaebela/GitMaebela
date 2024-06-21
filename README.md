@@ -43,8 +43,16 @@ console.log("Hello, World!");
       <img src="https://img.icons8.com/color/60/000000/javascript.png" alt="JavaScript"/>
    </a><a >
       <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
-   </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a><a ><img src="https://img.icons8.com/color/60/000000/reactjs.png" alt="React.js"/></a>
+   </a><a><img src="https://img.icons8.com/color/60/000000/tailwindcss.png"/></a>
 
+
+
+   <a ><img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/></a>
+   <a ><img src="https://img.icons8.com/color/60/000000/github--v1.png" alt="GitHub"/></a>
+   <a ><img src="https://img.icons8.com/color/60/000000/gitlab.png" alt="GitLab"/></a>
+   <a ><img src="https://img.icons8.com/color/60/000000/jenkins.png" alt="Jenkins"/></a>
+   <a ><img src="https://img.icons8.com/color/60/000000/docker.png" alt="Docker"/></a>
+   <a ><img src="https://img.icons8.com/color/60/000000/kubernetes.png" alt="Kubernetes"/></a>
 
 <hr style="margin-top: 80px; margin-bottom: 80px; border-bottom: dashed 1px #3e3e3e;"/>
 
